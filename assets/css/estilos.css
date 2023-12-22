@@ -11,6 +11,12 @@ body {
   background-position: left;
 }
 
+/*logo*/
+.navbar-brand .logo {
+  height: 15%;
+  width: 15%;
+}
+
 /* Mis trabajos */
 
 #Mis-trabajos .image-top {
